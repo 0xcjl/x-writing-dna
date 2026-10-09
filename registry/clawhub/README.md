@@ -55,10 +55,6 @@ Pass methods, source work IDs, genre, limitations and practice actions to [perso
 
 Sample counts do not prove representativeness. Engagement observations do not establish that style caused popularity. Partial collection, unverifiable identity, unseen visuals and missing holdout checks must remain explicit. Content collection does not grant permission to republish complete third-party works.
 
-## Attribution and license
+## Edition, credit and license
 
-Adapted from the six-axis analysis idea in [larashero3-dotcom/writing-dna-skill](https://github.com/larashero3-dotcom/writing-dna-skill), commit `ee3d97ee27268004b5187d97711161f44fc4aae4`. This skill adds collection, provenance, independent genre gates, corpus auditing and three content-context dimensions. The upstream MIT license is preserved in [LICENSE](LICENSE).
-
-## Registry edition
-
-ClawHub requires MIT-0 for all skills. The exact English registry package is maintained in [registry/clawhub](registry/clawhub/README.md), with a separate [MIT-0 license](registry/clawhub/LICENSE). The root GitHub edition remains MIT. Registry version 1.0.1 replaces the initial incompatible 1.0.0 upload.
+This ClawHub edition is an independently written MIT-0 package. Its collection contract, analysis instructions and audit helper are maintained by 0xcjl. The multi-aspect writing-analysis idea was informed by [writing-dna-skill](https://github.com/larashero3-dotcom/writing-dna-skill); no upstream templates or workflow prose are included in this registry package. The GitHub root edition retains MIT licensing and its upstream attribution. See [LICENSE](LICENSE).
